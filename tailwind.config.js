@@ -5,6 +5,12 @@ module.exports = {
     ],
     theme: {
       extend: {},
+      colors: {
+        'lilipink':'#FF0049',
+        'white':'#FFFFFF',
+        'gris': '#7E7777'
+        
+      }
     },
     plugins: [],
   }

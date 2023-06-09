@@ -3,15 +3,14 @@ import { CommonModule } from '@angular/common';
 import {ListasCreadasComponent} from './listas-creadas/listas-creadas.component';
 
 
-
 @NgModule({
   declarations: [
-    ListasCreadasComponent,
- 
-
+    ListasCreadasComponent
   ],
   imports: [
     CommonModule
+  
+   
   ]
 })
 export class PageModule { }
